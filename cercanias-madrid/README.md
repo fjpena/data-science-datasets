@@ -1,0 +1,1 @@
+This file was retrieved from [the datos.gob.es website](https://datos.gob.es/es/catalogo/ea0003337-volumen-de-viajeros-por-franja-horaria-madrid1), and is licensed using the [Creative Commons CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
